@@ -1,0 +1,24 @@
+{
+  "name": "recharts",
+  "description": "React charts",
+  "main": "umd/Recharts.js",
+  "authors": [
+    "recharts group"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "reactjs",
+    "chart",
+    "react-component"
+  ],
+  "homepage": "https://github.com/djbuen/recharts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
